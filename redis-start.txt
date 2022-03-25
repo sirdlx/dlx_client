@@ -1,0 +1,1 @@
+redis-server /mnt/c/Users/DLXStudios/GitHub/flavor_redis_client/redis.conf
